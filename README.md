@@ -15,8 +15,10 @@ This dataset has information about local bike lanes such as the street name they
 * Counted total number of projects per street based on classifications
 
 ## [Customer and Order Analytics](https://github.com/L-michelle/SQL-Projects/blob/main/Customer%20and%20Order%20Analytics) 
-This project contains a quick analysis on orders. Questions answered included how many orders were placed in January, how many of those orders were iPhones, the minimum product price, and total revenue. 
+This ad-hoc analysis  contains a quick analysis on orders. Questions answered included how many orders were placed in January, how many of those orders were iPhones, the minimum product price, and total revenue. 
 
 ## [Spotify Top 50 2021](https://github.com/L-michelle/SQL-Projects/blob/main/Spotify%20Top%2050%202021)
-This project contains an analysis on the top 50 artists in 2021 from Spotify. Questions answered included comparing the top ten artists and their songs with danceability and popularity, statistical analysis of numerical values, and using CTE to classify artists. 
+This ad-hoc analysis contains an analysis on the top 50 artists in 2021 from Spotify. Questions answered included comparing the top ten artists and their songs with danceability and popularity, statistical analysis of numerical values, and using CTE to classify artists. 
 
+## [Digital Media Store](https://github.com/L-michelle/SQL-Projects/blob/main/Digital%20Media%20Store)
+This ad-hoc analysis contains data from a digital media store which includes tables for artists, albums, media tracks, invoices, and customers. Questions answered include determining customers not in the US, invoices and sales from 2009, and total sales by each sales agent. 
