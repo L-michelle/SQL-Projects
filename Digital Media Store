@@ -1,7 +1,36 @@
+--Selecting all customers located in the USA--
+SELECT DISTINCT customerid, 
+billingaddress, 
+billingcity, 
+billingstate
+FROM chinook.invoices
+WHERE billingcountry = 'USA'
+ORDER BY customerid;
+
+
 --Show Customers (their full names, customer ID, and country) who are not in the US. (Hint: != or <> can be used to say "is not equal to").
 SELECT FirstName, LastName, CustomerId, Country 
 FROM chinook.customers 
 WHERE Country != "USA";
+
+
+--Selecting artists who's names start with an "a"--
+SELECT a.name, ab.title
+FROM chinook.albums ab
+JOIN chinook.artists a
+ON ab.artistid = a.artistid
+WHERE a.name LIKE "a%"
+ORDER BY a.name;
+
+
+--Selecting the customerid, invoicedate, and address of orders with a NULL billing state--
+SELECT customerid, 
+invoicedate, 
+billingaddress, 
+billingcity, 
+billingcountry
+FROM chinook.invoices
+WHERE billingstate IS NULL;
 
 
 --Show only the Customers from Brazil.
