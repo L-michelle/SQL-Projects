@@ -1,5 +1,5 @@
 # SQL Projects
-Welcome to my SQL portfolio! This repository contains some projects that I have executed. Please feel free to look around let me know if you have any questions!
+Welcome to my SQL portfolio! This repository contains some projects that I have executed. Some of these projects are from TripleTen Bootcamp, some are from the Charlotte Chaze's Break Into Tech Course, and some are passion projects of my own. Please feel free to look around and let me know if you have any questions!
 
 ## [Rideshare Analysis (SQL)](https://github.com/L-michelle/Projects/tree/main/Rideshare%20Analysis%20(SQL))
 * Parsed data from website to obtain Chicago weather in November of 2017
