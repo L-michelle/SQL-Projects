@@ -6,6 +6,7 @@ This repository showcases a selection of projects I have completed. These includ
 * Analyzed data using SQL and python to find patterns 
 * Used EDA to understand passenger preferences and the impact of external factors on rides such as weather
 * Tested hypothesis on whether the average duration of rides from the Loop to O'Hare International Airport differs on rainy Saturdays
+* (Please note this project folder is in a different repository.)
 
 ## [Data Analyst Jobs](https://github.com/L-michelle/SQL-Projects/tree/main/Data%20Analysis%20Jobs)
 * Analyzed data analyst job postings in US from 2022-2023 with focus on remote jobs, California jobs, and jobs in and surround Irvine.
