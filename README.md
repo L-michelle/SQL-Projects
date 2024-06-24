@@ -1,11 +1,16 @@
 # SQL Projects
-Welcome to my SQL portfolio! This repository contains some projects that I have executed. Some of these projects are from TripleTen Bootcamp, some are from the Charlotte Chaze's Break Into Tech Course, and some are passion projects of my own. Please feel free to look around and let me know if you have any questions!
+This repository showcases a selection of projects I have completed. These include both assignments from the TripleTen Bootcamp and personal passion projects.
 
 ## [Rideshare Analysis (SQL)](https://github.com/L-michelle/Projects/tree/main/Rideshare%20Analysis%20(SQL))
 * Parsed data from website to obtain Chicago weather in November of 2017
 * Analyzed data using SQL and python to find patterns 
 * Used EDA to understand passenger preferences and the impact of external factors on rides such as weather
 * Tested hypothesis on whether the average duration of rides from the Loop to O'Hare International Airport differs on rainy Saturdays
+
+## [Data Analyst Jobs](https://github.com/L-michelle/SQL-Projects/tree/main/Data%20Analysis%20Jobs)
+* Analyzed data analyst job postings in US from 2022-2023 with focus on remote jobs, California jobs, and jobs in and surround Irvine.
+* Used PostgreSQL, Python, and Jupyter Notebook to analyze and visualize findings.
+* Found that most remote jobs were from recruiters and suggested to focus on smaller companies as well as apply to job listings posted by the actual company themselves.
 
 ## [City Bike Lane](https://github.com/L-michelle/SQL-Projects/blob/main/City%20Bike%20Lanes)
 This dataset has information about local bike lanes such as the street name they're on, the year they were first installed, the year they were updated, how wide they are, and their safety rating.
