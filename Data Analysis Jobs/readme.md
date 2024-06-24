@@ -18,4 +18,11 @@ This analysis focuses on data analyst roles posting from 12/2022 - 12/2023. The 
 * Jupyter Notebook
 * Python (Pandas, Seaborn)
 
+![Top 15 Companies](https://github.com/L-michelle/SQL-Projects/blob/main/Data%20Analysis%20Jobs/images/Top%2015%20Companies%20by%20Highest%20Salary.png)
+The top 3 companies with the higest average salaries are Mantys, Meta, and AT&T. Among the top 15 are also some health companies and Tech companies.
+
+
+![Top Companies by Number of Jobs](https://github.com/L-michelle/SQL-Projects/blob/main/Data%20Analysis%20Jobs/images/Top%20Companies%20by%20Number%20of%20Jobs.png)
+Many of the remote job postings are from fake recruiting sites. However, there are some tech and health companies.
+
 
